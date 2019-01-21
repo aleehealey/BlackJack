@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BlackJack
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ welcome\ to\ blackjack\r\n\ \r\n\ \ make\ a\ standard\ deck,\ shuffle\ a\ few\ times\r\n\ \ \r\n\ \ draw\ two\ cards,\ show\ the\ user\r\n\ \ draw\ two\ cards\ for\ the\ computer\r\n\ \ \r\n\ \ prompt\ to\ hit\ or\ stay\ as\ many\ times\ as\ the\ User\ wants\r\n\ \ \r\n\ \ do\ the\ computer's\ turn\r\n\ \r\n\ \ compare,\r\n\ \ \r\n\ \ declare\ the\ winner\r\n
+numComments=2
