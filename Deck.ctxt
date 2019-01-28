@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Deck
+comment1.params=ranks\ suits\ values
+comment1.target=Deck(java.lang.String[],\ java.lang.String[],\ int[])
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=Card\ deal()
+comment4.params=
+comment4.target=void\ selectionShuffle()
+comment5.params=
+comment5.target=void\ perfectShuffle()
+numComments=6

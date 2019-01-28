@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GamblingTime
+comment1.params=s
+comment1.target=void\ println(java.lang.String)
+comment1.text=\r\n\ first\ you\ start\ with\ 100\ dollars\r\n\ \r\n\ you\ bet\ a\ certian\ amount\ of\ money\r\n\ you\ play\ a\ game\r\n\ if\ you\ win\ then\ you\ get\ that\ amount\ of\ money\ back\r\n\ if\ you\ lose\ then\ you\ lose\ that\ amount\ of\ money\r\n\ \r\n\ then\ you\ ask\ them\ if\ you\ want\ to\ play\ again\r\n\ if\ yes\r\n\ then\ you\ play\ again\r\n\ if\ no\r\n\ then\ you\ stop\ with\ your\ money\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
